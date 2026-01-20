@@ -1,0 +1,20 @@
+{
+  "contacts": [
+    {
+      "id": "38d1",
+      "firstName": "Shafiqul Bari",
+      "lastName": "Mubeen",
+      "email": "mubeen@gmail.com",
+      "phone": "01777777777",
+      "createdAt": "2026-01-20T14:25:08.380Z"
+    },
+    {
+      "id": "41d2",
+      "firstName": "Amar",
+      "lastName": "Nam",
+      "email": "email@gmail.com",
+      "phone": "01764316464",
+      "createdAt": "2026-01-20T14:47:42.595Z"
+    }
+  ]
+}
